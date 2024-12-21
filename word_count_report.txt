@@ -1,0 +1,7 @@
+Word Count Report
+Total Words: 70
+Top 4 Words:
+to - 5
+on - 2
+a - 2
+is - 2
