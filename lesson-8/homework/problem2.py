@@ -1,7 +1,6 @@
 import os
 import json
 
-
 class Account:
     """Represents a bank account."""
 
