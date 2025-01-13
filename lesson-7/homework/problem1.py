@@ -5,7 +5,7 @@ class Vector:
     def __init__(self, *components):
         self.components = components
 
-    def __repr__(self):
+    def __str__(self):
         return f"Vector({', '.join(map(str, self.components))})"
 
 
