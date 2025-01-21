@@ -6,5 +6,4 @@ def password_checker():
         print("Password must contain an uppercase letter")
     else:
         print("Password is strong")
-
 password_checker()
