@@ -53,7 +53,6 @@ def main():
     if not os.path.exists(FILE_NAME):
         create_file()
 
- 
     content = read_file()
     word_counts = count_words(content)
     total_words = sum(word_counts.values())
