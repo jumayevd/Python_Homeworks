@@ -8,7 +8,6 @@ class Vector:
     def __str__(self):
         return f"Vector({', '.join(map(str, self.components))})"
 
-
     def __add__(self, other):
         if not isinstance(other, Vector):
             raise TypeError("Addition is only supported between Vector instances")
