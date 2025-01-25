@@ -1,4 +1,3 @@
-ID,Task,Completed,Priority
-1,Do laundry,True,3
-2,Buy groceries,True,2
-3,Finish homework,False,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:52fc4b4bdc973a74d918e6fa3ed7ae27a656b49441ad2753b84a869ff1d744ac
+size 100
